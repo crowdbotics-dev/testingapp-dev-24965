@@ -57,6 +57,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [django-articles](backend/modules)
 - [screen-advance-search](screens/advance-search)
+- [screen-activity-feed](screens/activity-feed)
 
 # Getting started: Frontend
 
