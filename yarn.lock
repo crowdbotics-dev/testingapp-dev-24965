@@ -1211,6 +1211,9 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
+"@screens/activity-feed@file:./screens/activity-feed":
+  version "1.0.0"
+
 "@screens/activity-feed@file:./screens/activity-feed/":
   version "1.0.0"
 
