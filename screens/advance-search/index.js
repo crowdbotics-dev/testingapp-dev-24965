@@ -1,12 +1,10 @@
 import React from "react";
 import { Text, StyleSheet, View } from "react-native";
 
-const AdvanceSearchScreen = (params) => {
-  return (
-    <View style={styles.container}>
+const AdvanceSearchScreen = params => {
+  return <View style={styles.container}>
       <Text style={styles.headingTxt}>AdvanceSearchScreen Screen</Text>
-    </View>
-  );
+    </View>;
 };
 
 const styles = StyleSheet.create({
@@ -22,5 +20,4 @@ const styles = StyleSheet.create({
     marginVertical: 12
   }
 });
-
 export default AdvanceSearchScreen;
