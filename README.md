@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-articles](backend/modules)
 - [screen-advance-search](screens/advance-search)
 - [screen-activity-feed](screens/activity-feed)
+- [screen-about-the-app](screens/about-the-app)
 
 # Getting started: Frontend
 
